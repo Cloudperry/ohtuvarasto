@@ -1,3 +1,3 @@
 # ohtuvarasto
 
-https://github.com/Cloudperry/ohtuvarasto/workflows/CI/badge.svg
+![](https://github.com/Cloudperry/ohtuvarasto/workflows/CI/badge.svg)
